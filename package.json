@@ -1,0 +1,29 @@
+{
+  "name": "rsschool-codejam",
+  "version": "1.0.0",
+  "description": "My Codejam project",
+  "author": "Alena Kharytonchyk",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-mocha": "^5.2.0",
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlenaKharytonchyk/rsschool-codejam.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlenaKharytonchyk/rsschool-codejam/issues"
+  },
+  "homepage": "https://github.com/AlenaKharytonchyk/rsschool-codejam#readme"
+}
